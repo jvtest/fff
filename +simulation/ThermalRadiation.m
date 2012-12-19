@@ -4,6 +4,9 @@ classdef ThermalRadiation < handle
     %
     % Static members provide integration and sensitivity calculations. 
     %
+
+
+% Comment added in the lab
     
     % Author: Åge Andreas Falnes Olsen, Justervesenet
     % Date: 25-oct-2012
